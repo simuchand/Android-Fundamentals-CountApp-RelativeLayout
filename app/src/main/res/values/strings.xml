@@ -4,6 +4,7 @@
     <string name="bt2">COUNT</string>
     <string name="bt3">RE-SET</string>
     <string name="start_count">0</string>
+    <string name="start_count_prv">0</string>
     <string name="toast_message">Hello Toast!</string>
     <string name="toast_reset">Toast RE-SET!</string>
     <string name="toast_start">GET-SET-GO!</string>
