@@ -13,7 +13,7 @@ In this ***CountApp***, here there is a separate TextView to keep track the prev
   
 ## Application output
 
-<img src="Images/Hello%20Toast-LL.png" height=500>
+<img src="images/Hello%20Toast-LL.png" height=500>
 
 ## What Next?
  * The above application is designed based on **Relative Layout**
